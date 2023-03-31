@@ -1,2 +1,2 @@
-# Songs_generator_and_noise_cancellation
+# Piano_songs_generator_and_noise_cancellation
 using Python
